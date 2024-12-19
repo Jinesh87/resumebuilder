@@ -1,6 +1,32 @@
-# Getting Started with Create React App
+# Resume Builder
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A beautifully crafted personal resume developed using React. The design exudes an atmospheric aesthetic, while the code is built upon the foundations of React, Redux, JavaScript, and CSS. The project showcases excellent scalability and maintainability, making it a standout example of modern web development practices.
+
+## Versions
+- **Node**: 22.11.0
+- **React**: 18.2.0
+
+## Dependencies
+
+- **[dayjs](https://www.npmjs.com/package/dayjs)**: Lightweight date library for JavaScript.
+- **[redux](https://react-redux.js.org/introduction/getting-started)**: Predictable state container for JavaScript apps.
+- **[mui](https://mui.com/material-ui/)**: A popular React UI framework for faster, more accessible web development.
+
+## Installation and Setup Instructions 
+
+Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
+
+Installation:
+
+`npm install`   
+
+To Start Server:
+
+`npm start`  
+
+To Visit App:
+
+`localhost:3000/`  
 
 ## Available Scripts
 
