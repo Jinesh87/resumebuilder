@@ -12,6 +12,14 @@ A beautifully crafted personal resume developed using React. The design exudes a
 - **[redux](https://react-redux.js.org/introduction/getting-started)**: Predictable state container for JavaScript apps.
 - **[mui](https://mui.com/material-ui/)**: A popular React UI framework for faster, more accessible web development.
 
+## Project Screen Shot(s)
+
+
+![Resume-Builder1](src/assets/images/Resume-Builder1.png "Resume-Builder1"){width=75%}
+![Resume-Builder-Social](src/assets/images/Resume-Builder-Social.png "Resume-Builder-Social"){width=75%}
+![Resume-Builder-Resume](src/assets/images/Resume-Builder-Resume.png "Resume-Builder-Resume"){width=75%}
+
+
 ## Installation and Setup Instructions 
 
 Clone down this repository. You will need `node` and `npm` installed globally on your machine.  
