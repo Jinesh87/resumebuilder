@@ -15,9 +15,9 @@ A beautifully crafted personal resume developed using React. The design exudes a
 ## Project Screen Shot(s)
 
 
-![Resume-Builder1](src/assets/images/Resume-Builder1.png "Resume-Builder1"){width=75%}
-![Resume-Builder-Social](src/assets/images/Resume-Builder-Social.png "Resume-Builder-Social"){width=75%}
-![Resume-Builder-Resume](src/assets/images/Resume-Builder-Resume.png "Resume-Builder-Resume"){width=75%}
+![Resume-Builder1](src/assets/images/Resume-Builder1.png "Resume-Builder1")
+![Resume-Builder-Social](src/assets/images/Resume-Builder-Social.png "Resume-Builder-Social")
+![Resume-Builder-Resume](src/assets/images/Resume-Builder-Resume.png "Resume-Builder-Resume")
 
 
 ## Installation and Setup Instructions 
