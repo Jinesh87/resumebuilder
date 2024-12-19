@@ -1,0 +1,21 @@
+.root {
+    width: 100%;
+  }
+  
+  .button {
+    margin-right: 10px!important;
+  }
+  
+  .completed {
+    display: inline-block;
+  }
+  
+  .instructions {
+    margin-top: 10px;
+    margin-bottom: 10px;
+  }
+
+.navigation-buttons{
+  margin-top: 10px;
+}
+  

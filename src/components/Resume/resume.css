@@ -1,0 +1,37 @@
+.root {
+    flex-grow: 1;
+  }
+  
+  .ParentResumePaper {
+    margin: auto;
+    margin-top: 1%;
+    text-align: left;
+    padding: 15px;
+    max-width: 1000px;
+  }
+  
+  .ParentResumeModel {
+    margin: auto;
+    margin-top: 1%;
+    padding: 15px;
+    max-width: 1000px;
+    border-color: pink;
+  }
+  
+  .ParentSkillSection {
+    text-align: left;
+  }
+  
+  .profilePhoto {
+    text-align: left;
+  }
+  
+  .header {
+    text-align: left;
+  }
+  
+  .content {
+    text-align: left;
+    margin: 8px 3px;
+  }
+  
